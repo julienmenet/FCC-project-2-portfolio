@@ -1,0 +1,116 @@
+<head>
+  <script src="https://use.fontawesome.com/34a7db8fd6.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu">
+  </head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#"></a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#jultxt">HOME</a></li>
+    </ul>
+      <ul class="nav navbar-nav navbar-right">
+      <li><a href="#jultxt">ABOUT</a></li>
+      <li><a href="#portfolio">PORTFOLIO</a></li> 
+      <li><a href="#contact">CONTACT</a></li> 
+    </ul>
+  </div>
+</nav>
+  <div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      
+  <div class="col-md-4">
+        <img src="https://s4.postimg.org/mff2mhp25/image.jpg" class="img-circle img-responsive" id="jul" alt="Julien";></div>
+    
+  <div class="col-md-8" id="jultxt"><h2 style="font-size:46px">My name is Julien</h2> 
+        
+    
+    
+<p style="font-size:36px">I'm a full-stack developer</p> 
+  <p style="font-size:36px">Welcome to my portfolio</p> 
+</div>
+    </div>
+      
+       <div class="container">
+  <div class="jumbotron" id="portfolio">
+    <div class="row">
+      <div class="col-md-6">
+        <a href="https://codepen.io/julienmenet/full/XKQRzY/" target="_blank" class="thumbnail">
+          <img src="https://s25.postimg.org/8vvylp9y7/image.png" alt="portfolio preview">
+    </a>
+      </div>
+        <div class="col-md-6">
+        <a href="https://codepen.io/julienmenet/full/XKQRzY/" target="_blank" class="thumbnail">
+          <img src="https://s25.postimg.org/8vvylp9y7/image.png" alt="portfolio preview">
+    </a>
+          </div>
+      <div class="col-md-6">
+        <a href="https://codepen.io/julienmenet/full/XKQRzY/" target="_blank" class="thumbnail">
+          <img src="https://s25.postimg.org/8vvylp9y7/image.png" alt="portfolio preview">
+    </a>
+      </div>
+        <div class="col-md-6">
+        <a href="https://codepen.io/julienmenet/full/XKQRzY/" target="_blank" class="thumbnail">
+          <img src="https://s25.postimg.org/8vvylp9y7/image.png" alt="portfolio preview">
+    </a>
+          </div>
+  </div>
+    </div>
+         </div>
+         </div>
+    <div class="container-fluid jumbotron">
+      
+ <!-- Snippet by luxianghao -->     
+<div class="row">
+<div class="col-sm-4">
+<h3 id="contact">Get in touch!</h3>
+<hr>
+<address>
+<strong>Email:</strong> <a href="mailto:#"> nospam@noway.com</a><br><br>
+<strong>Phone:</strong> (+66)123456789
+</address>
+</div>
+     
+    
+<div class="col-sm-8 contact-form">
+<form id="contact" method="post" class="form" role="form">
+<div class="row">
+<div class="col-xs-6 col-md-6 form-group">
+<input class="form-control" id="name" name="name" placeholder="Name" type="text" required autofocus />
+</div>
+<div class="col-xs-6 col-md-6 form-group">
+<input class="form-control" id="email" name="email" placeholder="Email" type="email" required />
+</div>
+</div>
+<textarea class="form-control" id="message" name="message" placeholder="Message" rows="5"></textarea>
+<br />
+<div class="row">
+<div class="col-xs-12 col-md-12 form-group">
+<button class="btn btn-primary pull-right" type="submit">Send</button>
+</form>
+</div>
+</div>
+  </div>
+    </div>
+    </div>
+    
+  <div class="text-center">  
+    <hr>
+    <p style="color:black">Coded by Julien Menet 
+    <a href=https://github.com/julienmenet target="_blank" 
+    class="btn azm-social azm-size-32 azm-long-shadow azm-github">
+    <i class="fa fa-github"></i></a>.<a href=https://www.facebook.com/julien.bkk.14 target="_blank" 
+    class="btn azm-social azm-size-32 azm-long-shadow azm-facebook"><i class="fa fa-facebook"></i></a></p>
+    <hr>
+    <!--Bootstrap Social Icons by Azmind. -->
+    
+  </footer>  
+  
+    </div>
+    
+  
+  
+ 
